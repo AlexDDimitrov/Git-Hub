@@ -1,0 +1,4 @@
+Commands we have studied
+git init
+git clone url
+git status
